@@ -104,7 +104,7 @@ populist_articles_method_2 %>% count(populism)
 
 
 
-##### MACHINE LEARNING FOR CLASSIFICATION OF ARTICLES ####
+##### MACHINE LEARNING FOR CLASSIFICATION OF ARTICLES (HUMAN-IN-THE-LOOP ALGORITHM) ####
 #### importing of manually labelled dataset
 #pop_articles <- read_excel("C:/Users/User/Desktop/Paper New/Human Coded Articles.xlsx")
 
