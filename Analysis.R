@@ -3,7 +3,7 @@ library(tidyverse)
 library(readxl)
 library(rio)
 library(stats)
-setwd("C:/Users/User/Desktop/Paper New")
+setwd("")
 
 ###data importing
 website_data1 <- read_excel("C:/Users/User/Desktop/Thesis_Makris/01-06 February.xlsx")
